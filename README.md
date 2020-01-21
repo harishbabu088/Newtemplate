@@ -1,0 +1,2 @@
+# Newtemplate
+startbootstrap
